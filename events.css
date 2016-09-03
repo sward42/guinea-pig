@@ -1,0 +1,29 @@
+.button {
+	display: block;
+}
+
+.color {
+	color: blue;
+}
+
+.hulk {
+	font-size: 2em;
+}
+
+.border {
+	border: 2px solid green;
+}
+
+.border-round {
+	border: 2px solid green;
+	border-radius: 20%;
+}
+
+.first {
+	font-weight: bold;
+}
+
+.sixth {
+	font-weight: bold;
+	font-style: italic;
+}
